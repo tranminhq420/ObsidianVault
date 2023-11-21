@@ -1,0 +1,10 @@
+- ra đời những năm 1960, 70
+- cơ chế hoạt động:
+	- tại router 1 nhận các gói tin, lưu trữ trong bộ đệm
+	- lấy package, tra bảng định tuyến để xem next host là ai
+	- chỉ package ra bộ đệm đầu ra
+- Nhận xét:
+	- trễ thay đổi, độ biến thiện độ trễ cao, best-effort
+	- hiệu suất cao
+	- giá thành phục vụ phụ thuộc vào kích thước gói tin
+	- no real-time service, point-to-point

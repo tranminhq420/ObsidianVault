@@ -1,0 +1,1 @@
+- Chất lượng truyền cao, tính bảo mật cao vì có thể mã hóa

@@ -1,0 +1,2 @@
+- Chờ và nhận (cờ token)
+--> Có hiệu suất thấp

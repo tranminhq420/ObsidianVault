@@ -1,0 +1,4 @@
+- được đề xuất bởi MacQueen 
+- có hai lợi thế chính:
+	- hiệu năng tương đối
+	- dễ áp dụng

@@ -1,0 +1,3 @@
+- Phát triển bởi WindRiver năm 1987
+- dùng trong công nghiệp như hàng không vũ trụ, công nghiệp, y tế, hạ tầng network
+- độ chính xác cao

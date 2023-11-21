@@ -1,0 +1,3 @@
+- Phát triển bởi QNX System vào những năm 80, mua lại bởi BlackBerry năm 2010
+- Yêu cầu về tính thời gian thực không quá lớn
+- 

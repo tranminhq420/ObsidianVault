@@ -1,0 +1,2 @@
+- Giá thành cao, cồng kềnh và phức tạp, bảo mật kém
+- chuyển đổi số: Ưu điểm vượt trội hơn các mặt

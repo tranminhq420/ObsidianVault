@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "04dc59ed568e2083",
+    "type": "split",
+    "children": [
+      {
+        "id": "f11c8c4ecca74c5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d3c26e8952a97a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mạng Internet/OSI - TCP IP/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1b425ee2f5598f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "60cb69578f721b04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25355c1b67ae6ad0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "674316b1b4e45834",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f6a55044af85d01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "390144ba56b5e134",
+    "type": "split",
+    "children": [
+      {
+        "id": "0faa9f60567413d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dde394cf3974a48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mạng Internet/OSI - TCP IP/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4682129fe5e18532",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mạng Internet/OSI - TCP IP/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16677f5df981bd0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "444a8c5d362a3c14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mạng Internet/OSI - TCP IP/Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9d3c26e8952a97a4",
+  "lastOpenFiles": [
+    "Recommender System/Model-Based Collaborative Filtering Techniques.md",
+    "Mạng Internet/OSI - TCP IP/Untitled.md",
+    "Mạng Internet/OSI - TCP IP",
+    "Recommender System/k-means method.md",
+    "Recommender System/Các kĩ thuật Hybrid CF.md",
+    "Untitled.canvas",
+    "Pasted image 20231103120829.png",
+    "Pasted image 20231103120815.png",
+    "Pasted image 20231101214146.png",
+    "Mạng Internet/Kĩ thuật chuyển mạch kênh - gói (Switching)/Kĩ thuật chuyển mạch gói.md",
+    "Recommender System",
+    "Mạng Internet/Kĩ thuật chuyển mạch kênh - gói (Switching)/Kĩ thuật chuyển mạch kênh - gói.md",
+    "Mạng Internet/Kĩ thuật chuyển mạch kênh - gói (Switching)/Kĩ thuật chuyển mạch kênh.md",
+    "Mạng Internet/Kĩ thuật chuyển mạch kênh - gói (Switching)/Switching.md",
+    "Mạng Internet/Biến đổi tương tự - số/Biến đổi tương tự - số.md",
+    "Mạng Internet/Kĩ thuật chuyển mạch kênh - gói (Switching)/Untitled",
+    "Mạng Internet/Kĩ thuật chuyển mạch kênh - gói (Switching)",
+    "Hệ thống thời gian thực/Các thuật toán lập lịch/Các thuật toán lập lịch.md",
+    "AI/Classification problem.md",
+    "AI/Decision tree.md",
+    "AI/Decision tree",
+    "Recommender System",
+    "Mạng Internet/Biểu diễn các loại tín hiệu/Tín hiệu tương tự.md",
+    "Mạng Internet/Biểu diễn các loại tín hiệu/Biểu diễn tín hiệu.md",
+    "Mạng Internet/Biểu diễn các loại tín hiệu/Phân loại các dạng thông tin.md",
+    "Mạng Internet/Biểu diễn các loại tín hiệu/Các loại tín hiệu (Signal).md",
+    "Mạng Internet/Biểu diễn các loại tín hiệu/Tín hiệu số.md",
+    "Hệ thống thời gian thực/Các hệ điều hành thời gian thực/QNX.md",
+    "Hệ thống thời gian thực/Các hệ điều hành thời gian thực/VxWork.md",
+    "Hệ thống thời gian thực/Các hệ điều hành thời gian thực/Các hệ điều hành thời gian thực.md",
+    "Hệ thống thời gian thực/Các hệ điều hành thời gian thự/Untitled",
+    "Hệ thống thời gian thực/Các hệ điều hành thời gian thực",
+    "Hệ thống thời gian thực/Các thuật toán lập lịch",
+    "Hệ thống thời gian thực",
+    "2023-10-04.md",
+    "Mạng Internet/Phân loại mạng/Phân loại mạng.md",
+    "Mạng Internet/Phân loại mạng/Token Ring.md",
+    "Mạng Internet/Phân loại mạng/Cấu hình sao.md",
+    "Mạng Internet/Phân loại mạng/Cấu hình không dây.md",
+    "Mạng Internet/Phân loại mạng/Cấu hình vòng.md"
+  ]
+}

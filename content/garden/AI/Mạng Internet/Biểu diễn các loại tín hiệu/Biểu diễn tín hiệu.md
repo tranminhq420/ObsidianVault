@@ -1,0 +1,7 @@
+- Theo thời gian:
+	- theo tần số
+- Theo miền thời gian:
+	- [[Tín hiệu tương tự]] -  analog
+		- biến thiên liên tục theo thời gian
+	- [[Tín hiệu số]] - Digital 
+		- biến thiên rời rạc

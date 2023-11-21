@@ -1,0 +1,3 @@
+- Preemptive priority-based scheduling
+- Round-robin
+- 
